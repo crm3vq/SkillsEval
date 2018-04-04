@@ -1,0 +1,626 @@
+[
+    {
+        "Agentname": "",
+        "DateStamp": 1413842543000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "35"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413845523000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "34"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413847160000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "35"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413847582000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "34"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413848157000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "35"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413851568000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "34"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413854833000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "33"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413857863000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "32"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413861324000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "31"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413864002000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "0"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413864726000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "1"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413864853000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "0"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413865526000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "1"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413865954000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "0"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413866334000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "1"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413866357000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "2"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413867429000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "1"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413868207000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "2"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413868568000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "1"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413868842000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "3"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413869067000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "4"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413870050000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "3"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413871200000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "4"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413873905000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "5"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413875844000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "4"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413879807000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "3"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413890247000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "2"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413890394000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "3"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413895696000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "4"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413899522000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "5"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413900201000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "6"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413900571000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "7"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413900724000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "8"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413900904000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "9"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413901040000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "10"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413901190000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "11"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413901355000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "12"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413902142000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "13"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413902298000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "14"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413902452000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "15"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413902735000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "16"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413902921000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "17"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413903042000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "18"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413903221000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "19"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413903390000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "20"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413903650000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "21"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413904145000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "22"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413904330000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "23"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413904554000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "24"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413904803000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "25"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413905358000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "26"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413905671000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "27"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413905975000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "28"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413906275000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "29"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413906771000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "30"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413906996000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "31"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413907275000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "32"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413908069000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "33"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413908257000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "34"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413908658000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "35"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413909382000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "36"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413909972000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "37"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413910547000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "38"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413911070000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "39"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413911798000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "40"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413912542000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "41"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413913000000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "42"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413915023000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "41"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413916883000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "40"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413919314000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "39"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413920957000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "38"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413922735000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "37"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413924662000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "36"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413928943000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "35"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413931923000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "34"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413933559000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "35"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413933980000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "34"
+    },
+    {
+        "Agentname": "",
+        "DateStamp": 1413934556000,
+        "Name": "Expected Wait Time",
+        "Skillname": "support",
+        "Type": "duration",
+        "Value": "35"
+    }
+]

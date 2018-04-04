@@ -1,0 +1,17 @@
+Agents Available
+
+1413844137000
+1413844448000
+1413844483000
+1413844493000
+1413844565000
+1413844569000
+
+There's no constant interval in-between the DateStamps for Agents Available
+
+Calls Offered's value is increasing
+
+1413892425000
+
+There are a ton of duplicates.
+M
